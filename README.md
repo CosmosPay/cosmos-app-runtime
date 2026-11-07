@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://cosmospay.lat"><img src=".github/assets/banner.png" width="100%" alt="Cosmos App runtime: third-party apps run in a Web Worker and describe their UI."></a>
+</p>
+
 # @cosmosapp/app_runtime
 
 El runtime declarativo para apps de terceros en la vitrina.
